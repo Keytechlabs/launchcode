@@ -1,0 +1,55 @@
+
+/*===================================================================
+Image
+=====================================================================*/
+.act1 {
+ border:1px green solid;
+ padding-left:10px; 
+}
+
+.act1 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.act2 {
+ border:1px green solid;
+ padding-left:20px; 
+}
+.act2 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+.act3 {
+ border:1px green solid;
+ padding-left:30px; 
+}
+
+.act3 img {
+  border:1px green solid;
+  width: 250px;
+  height: 250px;
+  border-radius: 4px;
+}
+
+/*=============================================================================
+
+================================================================================*/
+
+h1 {
+color: blue;
+font-size: 35px;
+font-family:Sansita;
+padding: 0px 20px;
+}
+
+p {
+  font-family:Sansita;
+  font-weight: bold;
+}
+
